@@ -54,4 +54,6 @@ simular peticiones a nuestro servidor y en los servicios, se debe hacer llamado 
 creados. Con alguna herramienta de análisis de código estático, se asegura que las pruebas unitarias
 desarrollados cuentan con un porcentaje de cobertura mínimo de 80%, esto para asegurar que
 escribimos un código de calidad y que cumple con la función para el cual fue desarrollado.
+![casos](https://user-images.githubusercontent.com/58458106/174944099-999883fa-2751-4f6b-9cc8-4222157b8920.png)
+![afiliaciones](https://user-images.githubusercontent.com/58458106/174944101-e6f68dda-52d7-49ab-810f-93a62dfa6cfb.png)
 
